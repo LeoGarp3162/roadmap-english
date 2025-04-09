@@ -97,7 +97,7 @@ We will split the audience into small groups, each member will look for one Engl
 
 Split the audience into small groups, each group will have some topics (e.g. kitchen, classroom, beach), and then each audience must mention one word related to that topic one by one. The audience that cannot mention the word, or mention similar words will get a punishment 
 
-example :
+Example :
 
 - Kitchen
   - pan
@@ -140,12 +140,37 @@ Make a team that has 2 - 3 members, then we make the tournament bracket. In 10 m
 
 https://www.nytimes.com/games/wordle/index.html
 
-## Month 3: Improving Grammar
+## Month 3: Building Fluency
 
-1. Writing grammar
-2. Reading and writing into specific grammar
-3. Writing story
-4. Basic conversation with different grammar
+###1. Improving confidence and fluency through daily conversation
+
+Make a group of 3-4 member and make a daily conversation through opinions about general topics,
+
+Example:
+
+   - AI
+   - Cafe
+   - Healthy Lifestyle
+   - Books
+   - Gadget
+   - Culinary
+   - Games
+
+###2. Discussion
+
+make a group of 3-4 member and build a discussion about a random topics thats debateable.
+
+For example:
+
+   - Healthy and Unhealthy lifestyle
+   - Digital or Manual information source?
+   - Motivation or Consistency?
+   - FOMO habits
+   - Nature condition
+   - Healthy and Unhealthy relationship
+
+4. Writing story
+5. Basic conversation with different grammar
 
 ## Month 4: Building Fluency
 

@@ -10,7 +10,7 @@ We will split the participants into small groups of 3 to 5 members, each member 
 The member can tell everything they want to share, for example 
 - motivation to learn English
 - what do you do in your spare time
-- what are the current activities
+- what is their current activities
 - what is your dream
 
 After each member finishes their introduction, other members can ask some question, so small conversation can be happened
